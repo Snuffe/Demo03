@@ -10,6 +10,7 @@ namespace AS01
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
